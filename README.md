@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome everyone to my github / bienvenidos todos a mi github
 
 <!--
 **juanestebancarvaja/juanestebancarvaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
